@@ -1,0 +1,5 @@
+az login
+az account list
+az account set --subscription="0b675ba2-752d-4f6c-b725-450b5ac57677"
+az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/az account set --subscription="0b675ba2-752d-4f6c-b725-450b5ac57677"
+
