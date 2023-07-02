@@ -1,0 +1,17 @@
+# Ignore TF provider plugin files
+
+.terraform/
+.tf-plugins/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any file named .terraformignore
+.terraformignore
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
