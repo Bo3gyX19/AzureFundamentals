@@ -16,16 +16,16 @@ Source: [Integrating Azure Key Vault with Azure DevOps](https://microsoftlearnin
 
 ### VM and NSG created:
 
-![ss4](./sc07/vm.png)
+![ss4](./ss07/vm.png)
 
 ### Ports allowed:
 
-![sc5](./sc07/ports-open.png)
+![ss5](./ss07/ports-open.png)
 
 ### NSG cranged:
 
-![sc6](./sc07/nsg.png)
+![ss6](./ss07/nsg.png)
 
 ### Ports denied:
 
-![sc7](./sc07/ports-closed.png)
+![ss7](./ss07/ports-closed.png)
